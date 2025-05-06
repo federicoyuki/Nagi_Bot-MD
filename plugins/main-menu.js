@@ -42,7 +42,7 @@ let tags = {
 };
 
 const defaultMenu = {
-  before:  ` ✰ 𝐍𝐀𝐆𝐈𝐁𝐎𝐓-𝐕𝟐 ✰
+  before:  ` ✰ 𝐍𝐀𝐆𝐈-𝐁𝐎𝐓 ✰
 
 ╒═════〔 *I N F O • U S E R* 〕
 │ ⟶ 𝙽𝚘𝚖𝚋𝚛𝚎     : %name
@@ -194,7 +194,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
         image: { url: img },
         caption: menuText,
         buttons: buttons,
-        footer: "WHATSAPP BOT X BRAYAN MOSCOSO",
+        footer: "WHATSAPP BOT X FEDELANYT",
         viewOnce: true,
       },
       { quoted: m }
