@@ -17,7 +17,7 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-['5491156178758', '۪〬.࠭⤿ 👑 ⋅ fedelanYT Owner', true],
+['5491156178758', '۪〬.࠭⤿ 👑 ⋅ 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 Owner', true],
 ['15614809253', '۪〬.࠭⤿ 👑 ⋅ David soport', true],
 ['5491156178758', '۪〬.࠭⤿ 🐶 ⋅ Diego no hace nada', true],
 ['526242635831', '۪〬.࠭⤿ 👑 ⋅ Valeria', true],
@@ -48,10 +48,10 @@ global.NagiJadibts = true
 global.packname = 'ＮａｇｉＢｏｔ－ｖ²'
 global.botname = '𝙉𝙖𝙜𝙞𝘽𝙤𝙩-𝙫²'
 global.wm = '𝙽𝙰𝙶𝙸𝙱𝙾𝚃𝙼𝙳'
-global.author = 'Ｂｒａｙａｎ Ｂｙ ｎａｇｉＢｏｔ'
-global.dev = 'ℙ𝕠𝕨𝕖𝕣𝕕 𝔹𝕪 𝔹𝕣𝕒𝕪𝕒𝕟𝕄𝕠𝕤𝕔𝕠𝕤𝕠'
-global.textbot = '𝙽𝚊𝚐𝚒𝙱𝚘𝚝𝚟² :𝙱𝚛𝚊𝚢𝚊𝚗'
-global.etiqueta = '@𝙱𝚁𝙰𝚈𝙰𝙽 𝙼𝙾𝚂𝙲𝙾𝚂𝙾'
+global.author = '𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 Ｂｙ ｎａｇｉＢｏｔ'
+global.dev = 'ℙ𝕠𝕨𝕖𝕣𝕕 𝔹𝕪 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.textbot = '𝙽𝚊𝚐𝚒𝙱𝚘𝚝 :𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
+global.etiqueta = '@𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛 𝙼𝙾𝚂𝙲𝙾𝚂𝙾'
 global.titulowm = 'Whatsapp Multi Device';
 global.titulowm2 = 'Simple Bot WhatsApp'
 global.igfg = '@Brayan330'
@@ -90,7 +90,7 @@ global.cn ='https://whatsapp.com/channel/0029VbB4NfA0gcfNCreAOV3H';
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363418051851599@newsletter', //𝔹𝕣𝕒𝕪𝕒𝕟𝕄𝕠𝕤𝕔𝕠𝕤𝕠
+ch1: '120363418051851599@newsletter', //𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛
 ch2: '120363418051851599@newsletter', //BrolyBot-MD
 ch3: '120363418051851599@newsletter', //BrolyBot-MD
 ch4: '120363418051851599@newsletter', //BrolyBot-MD
