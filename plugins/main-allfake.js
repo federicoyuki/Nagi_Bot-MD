@@ -28,9 +28,9 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/50231458537'
+global.creador = 'Wa.me/5491156178758'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me50231458537'
+global.asistencia = 'Wa.me/5491156178758
 global.namechannel = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namegrupo = 'ＮＡＧＩＢＯＴ－Ｖ²'
 global.namecomu = '𝙏𝙃𝙀 𝘽𝙍𝙊𝙇𝙔𝘽𝙊𝙏 𝘾𝘼𝙉𝘼𝙇'
@@ -38,9 +38,9 @@ global.listo = '⚽️ ＡＱＵＩ ＴＩＥＮＥＳ ＭＥＮ'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://qu.ax/LsudL.jpg')
 
 //Ids channel
-global.idchannel = '120363312092804854@newsletter'
-global.canalIdM = ["120363312092804854@newsletter"]
-global.canalNombreM = ["ＮＡＧＩＢＯＴ－Ｖ²"]
+global.idchannel = '120363400708262483@newsletter'
+global.canalIdM = ["120363400708262483@newsletter"]
+global.canalNombreM = ["ＮＡＧＩＢＯＴ"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -74,8 +74,8 @@ global.waitttt = '⚽️ 𝙀𝙣𝙫𝙞𝙖𝙣𝙙𝙤 𝙩𝙚𝙣 𝙥𝙖�
 
 //Enlaces
 var grupo = 'https://chat.whatsapp.com/I2g1kNUSxf75HmZp5Nr3Ua'
-var canal = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'  
-var canal2 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W'
+var canal = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'  
+var canal2 = 'https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n'
 var git = 'https://github.com/El-brayan502/NagiBotV2.git' 
 var github = 'https://github.com/El-brayab502' 
 let correo = 'brayanphonkponk@gamail.com'
